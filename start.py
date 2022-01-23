@@ -156,4 +156,4 @@ print(f"{SET_BLUE_TEXT}------------------------------ STARTING BACKEND BOILERPLA
 main()
 
 if os.path.exists("./start.py"):
-    os.remove("./start/py")
+    os.remove("./start.py")
